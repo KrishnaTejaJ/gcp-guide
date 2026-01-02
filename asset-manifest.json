@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gcp-guide/static/css/main.92c8d4eb.css",
+    "main.js": "/gcp-guide/static/js/main.38ba43b2.js",
+    "index.html": "/gcp-guide/index.html",
+    "main.92c8d4eb.css.map": "/gcp-guide/static/css/main.92c8d4eb.css.map",
+    "main.38ba43b2.js.map": "/gcp-guide/static/js/main.38ba43b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.38ba43b2.js"
+  ]
+}
